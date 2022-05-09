@@ -1,0 +1,19 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/insta.js": "^1.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
